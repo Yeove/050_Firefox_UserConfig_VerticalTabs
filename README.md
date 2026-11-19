@@ -93,18 +93,7 @@ Install all of this before following the guide
 5. Select `Scroll_Anywhere_Settings.scroll_anywhere` from this repo
 6. On the bottom of the page, click **Save changes and close**
 
-## Optional Tweaks
-
-###  Step 5: Move Sidebery to the right side of the window
-
-1. Right-click the Sidebery icon in your toolbar
-2. Select **"Move sidebar to right"**
-<br> or in `about:config`, set `sidebar.position_start` to `false`
-<a href="README FILES/sidebery-right-side.gif" target="_blank">
-  <img src="README FILES/sidebery-right-side.gif" alt="Sidebery move sidebar to right" width="600">
-</a>
-
-## Step 6: Enable Live Editing for CSS
+## Step 5: Enable Live Editing for CSS
 
 Want to mess with CSS and see changes instantly without restarting Firefox?
 <br>Use the **Browser Toolbox**:
