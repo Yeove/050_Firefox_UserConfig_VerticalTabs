@@ -93,7 +93,8 @@ Install all of this before following the guide
 5. Select `Scroll_Anywhere_Settings.scroll_anywhere` from this repo
 6. On the bottom of the page, click **Save changes and close**
 
-## Step 5: Enable Live Editing for CSS
+## Optional Tweaks
+### Step 5: Enable Live Editing for CSS
 
 Want to mess with CSS and see changes instantly without restarting Firefox?
 <br>Use the **Browser Toolbox**:
@@ -109,7 +110,7 @@ Want to mess with CSS and see changes instantly without restarting Firefox?
 
 > Edits in the Browser Toolbox are temporary and disappear when you close it<br>Treat it like a scratchpad; find what works, then paste it into your real `userChrome.css`<br>If you totally screw up the browser, just close the Browser Toolbox and reopen it to start fresh
 
-### Additional Notes
+## Additional Notes
 
 **Optional Firefox Extensions I Like**
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) Prevents Ads on Websites
