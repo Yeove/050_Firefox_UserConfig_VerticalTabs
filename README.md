@@ -1,7 +1,7 @@
 # Yeove's Firefox CSS Tweaks
 
 This is my custom CSS for Firefox.
-<br>It's pretty similar to Firefox's native vertical tabs, but with auto hover / tab search / with the ability to summon that list, with an upwards gesture of the mouse, towards the top o the screen. 
+<br>It's pretty similar to Firefox's native vertical tabs, with auto hover / tab search / & with the ability to summon that list, with an upwards gesture of the mouse, towards the top o the screen. 
 Or via custom keybinds using the sidebery addon.
 
 ## Overview
